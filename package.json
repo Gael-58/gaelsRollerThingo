@@ -9,7 +9,7 @@
     "data": "data/*"
   },
   "scripts": {
-    "test-0": "echo('hello")"
+    "test-0": "echo('hello')"
   },
   "repository": {
     "type": "git",

@@ -2,14 +2,14 @@
   "name": "@gael-58/gaelsrollerthingo",
   "version": "1.0.0",
   "description": "test_!",
+"homepage": "https://gael-58.github.io/gaelsRollerThingo/",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "js": "lib/js",
-    "data": "data"
+    "lib": "lib/*",
+    "data": "data/*"
   },
   "scripts": {
-    "array-roll-lib": "lib/js/ArrayRollLib.js"
+    "test-0": "echo('hello")"
   },
   "repository": {
     "type": "git",

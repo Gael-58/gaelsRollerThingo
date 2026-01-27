@@ -1,0 +1,21 @@
+{
+  "name": "@gael-58/gaelsrollerthingo",
+  "version": "1.0.0",
+  "description": "test_!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install"
+  },
+  "keywords": [
+    "Gael"
+  ],
+  "author": "Gael",
+  "license": "ISC"
+}

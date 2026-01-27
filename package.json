@@ -4,8 +4,8 @@
   "description": "test_!",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
-    "js": "lib/js"
+    "lib": "lib",
+    "js": "lib/js",
     "data": "data"
   },
   "scripts": {

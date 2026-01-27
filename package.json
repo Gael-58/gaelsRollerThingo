@@ -5,9 +5,11 @@
   "main": "index.js",
   "directories": {
     "lib": "lib"
+    "js": "lib/js"
+    "data": "data"
   },
   "scripts": {
-    "test": "exit 0"
+    "array-roll-lib": "lib/js/ArrayRollLib.js"
   },
   "repository": {
     "type": "git",

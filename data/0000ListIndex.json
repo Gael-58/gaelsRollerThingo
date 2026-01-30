@@ -10,6 +10,12 @@
     "convergenceList01" : {
         "name" : "list from the convergence server (1).",
         "url" : "https://gael-58.github.io/gaelsRollerThingo/data/convergenceList01.json"
+    },
+"goetiaList01" : {
+        "name" : "list of all Goetia and their associated number.",
+        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/goetia0.json"
     }
+
+
 
 }

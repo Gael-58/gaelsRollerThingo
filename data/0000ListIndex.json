@@ -1,0 +1,11 @@
+{
+    "gaelsTesting" : {
+        "name" : "gaels testing list",
+        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/gaelsTestingThings.json"
+    },
+    "10KChaosEffects" : {
+        "name" : "10.000 true chaos effects.",
+        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/trueChaosEffects.json"
+    }
+
+}

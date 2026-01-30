@@ -6,6 +6,10 @@
     "10KChaosEffects" : {
         "name" : "10.000 true chaos effects.",
         "url" : "https://gael-58.github.io/gaelsRollerThingo/data/trueChaosEffects.json"
+    },
+    "convergenceList01" : {
+        "name" : "list from the convergence server (1).",
+        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/convergenceList01.json"
     }
 
 }

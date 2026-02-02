@@ -1,12 +1,12 @@
 {
-    "gaelsTesting" : {
-        "name" : "gaels testing list. not much in it",
-        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/gaelsTestingThings.json"
-    },
     "10KChaosEffects" : {
         "name" : "10.000 true chaos effects.",
         "url" : "https://gael-58.github.io/gaelsRollerThingo/data/trueChaosEffects.json"
     },
+    "randomChaoticDurationList":{
+    "name" : "wild and chaotic durations and end conditions for things.",
+    "url" : "https://gael-58.github.io/gaelsRollerThingo/data/randomChaoticDurations.json"
+},
     "convergenceList01" : {
         "name" : "list from the convergence server (1).",
         "url" : "https://gael-58.github.io/gaelsRollerThingo/data/convergenceList01.json"
@@ -15,10 +15,11 @@
         "name" : "list of all Goetia and their associated number.",
         "url" : "https://gael-58.github.io/gaelsRollerThingo/data/goetia0.json"
     },
+        "gaelsTesting" : {
+        "name" : "gaels testing list. not much in it",
+        "url" : "https://gael-58.github.io/gaelsRollerThingo/data/gaelsTestingThings.json"
+    }
 
-"randomChaoticDurationList":{
-    "name" : "wild and chaotic durations and end conditions for things.",
-    "url" : "https://gael-58.github.io/gaelsRollerThingo/data/randomChaoticDurations.json"
-}
+
 
 }

@@ -8,7 +8,12 @@
         "[{things-individual},{target-important}] starts slowly turning into {materials} from the inside out over the span of 1d10 rounds",
         "[{things-individual},{places}] becomes a portal to [{places},{places-target-only}]. roll a d100, if the result is 1, this becomes permanent. otherwise, the result indicates the number of rounds active.",
         "a mirage of [{target-important},{target-individual},{target-collective},{things-individual},{places},{places-target-only}] appears [{places},{places-target-only}]",
-        "[{}{}{}]"
+        "[{target-important},{target-individual},{target-collective}] becomes an endless source of [{materials},{things-collective}]",
+        "a cake that looks exactly like the mangled corpse(s) of [{target-important},{target-individual},{target-collective}] appears in ",
+        "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] spontaneously explodes",
+        "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] {effects}",
+        "when {condition}, {{target-collective}} {personal-effects}",
+        "when {condition}, {finalized}"
     ],
     "target-important":[
         "the caster",
@@ -18,14 +23,19 @@
         "the phisically closest person to {target-important}",
         "the emotionally closest person to {target-important}",
         "[{target-important},{target-individual}]'s worst enemy",
+        "[{target-important},{target-individual}]'s closest relative",
         "the closest member of royalty",
-        "the local ruler"
+        "the local ruler",
+        "[{target-important},{target-individual}]'s almost perfect clone",
+        "[{target-important},{target-individual}]'s evil doppleganger",
+        "a sealed god's avatar",
+        "a closest scheming villain"
     ],
     "target-collective":[
         "the royal family",
         "{ammounts} people nearby",
         "{target-important}'s family",
-        "{target-important} and {target-important}"
+        "[{target-individual},{target-collective},{target-important}] and [{target-individual},{target-collective},{target-important}]"
     ],
     "things-individual": [
         "the moon",
@@ -33,18 +43,63 @@
         "the nearest {things-collective}",
         "a random {things-collective}",
         "the philosopher's stone",
-        "[{target-important},{target-individual}]'s face"
+        "[{target-important},{target-individual},{living-individual}]'s face",
+        "[{target-important},{target-individual},{living-individual}]'s skull",
+        "[{target-important},{target-individual},{living-individual}]'s corpse",
+        "[{target-important},{target-individual},{living-individual}]'s finger",
+        "[{target-important},{target-individual},{living-individual}]'s eye"
     ],
     "things-collective":[
         "shield",
         "weapon",
+        "armor",
         "spell scroll",
         "spell book",
         "casting focus",
         "potion",
         "animal",
-        "corpse"
+        "corpse",
+        "[{living-individual}]'s carcass",
+        "very cool hat",
+        "hat",
+        "bucket",
+        "bag of holding",
+        "candy"
     ],
+    "living-individual":[
+        "giant eye",
+        "zombie",
+        "beholder",
+        "dragon",
+        "cat",
+        "dog",
+        "kangaroo",
+        "anti-[{target-important},{target-individual},{living-individual}]",
+        "living {things-collective}",
+        "lizard",
+        "snake",
+        "fox",
+        "ominous orb",
+        "chicken",
+        "horse",
+        "{materials} elemental",
+        "fiend",
+        "bag man",
+        "celestial",
+        "grandma",
+        "goblin",
+        "fairy",
+        "accountant",
+        "skeleton",
+        "partying skeleton",
+        "dullahan",
+        "peashooter",
+        "rats",
+        "{materials} golem",
+        "flower",
+        "nightmare",
+        "{material}-powered {}"
+    ]
     "ammounts":[
         "1d2",
         "1d4",
@@ -66,9 +121,12 @@
         "the nearest pool of water",
         "the nearest corpse",
         "the nearest door",
-        "somewhere nearby"
+        "somewhere nearby",
+        "the nearest source of {materials}"
     ],
     "places-target-only":[
+        "space",
+        "the sky",
         "the underdark",
         "the moon",
         "the surface of the sun",
@@ -79,8 +137,9 @@
         "sigil",
         "the backrooms",
         "the sea",
-        "the plane of {things-collective}s",
-        "the plane of {materials}"
+        "the plane of [{things-collective},{living-individual}]s",
+        "the plane of {materials}",
+        "the belly of the beast"
     ],
     "materials": [
         "water",
@@ -101,6 +160,45 @@
         "candy",
         "ash",
         "ice",
-        "platinum"
+        "platinum",
+        "electricity",
+        "mana",
+        "shadow",
+        "light",
+        "inverted {material}",
+        "gore",
+        "cheese",
+        "soul",
+        "silver thread",
+        "blood"
+    ],
+    "personal-effects":[
+        "{personal-effects} and then {personal-effects}",
+        "{personal-effects}. and then {finalized}",
+        "turns into a portal to [{places},{places-target-only}]",
+        "explodes into a huge mess of {materials}",
+        "explodes into a source of {materials}",
+        "non-harmfully explodes into a huge mess of {materials} every few minutes, this lasts until {condition}",
+        "explodes into 1d30 [{things-collective},{living-individual}s]",
+        "teleports to [{places},{places-target-only}]",
+        "encurs the wrath of a deity until {condition}",
+        "becomes [[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual}] until {condition}",
+        "becomes [{materials},{places-target-only},{target-collective}]'s chosen knight",
+        "becomes [{materials},{places-target-only},{target-collective}]'s chosen {living-individual}"
+    ],
+    "condition":[
+        "any kind of roll has been made",
+        "any skill check has been made",
+        "[{target-important},{target-individual}] falls asleep",
+        "[{target-important},{target-individual}] draws blood",
+        "[{target-important},{target-individual}] casts a spell",
+        "[{target-important},{target-individual}] dies",
+        "seconds before [{target-important},{target-individual}]'s birthday",
+        "[{target-important},{target-individual}]'s funeral is held",
+        "next time someone laughs IRL",
+        "1d10 rounds have passed",
+        "1d2 rounds have passed",
+        "five seconds have passed",
+        "a morsel of [{materials},{living-individual}] has been consumed"
     ]
 }

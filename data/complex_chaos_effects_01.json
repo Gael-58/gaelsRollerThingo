@@ -38,7 +38,7 @@
         "[{target-important},{target-individual}]'s almost perfect clone",
         "[{target-important},{target-individual}]'s evil doppleganger",
         "a sealed god's avatar",
-        "a closest scheming villain",
+        "a nearby scheming villain",
         "a nearby {living-individual}",
         "the moon"
     ],
@@ -51,7 +51,8 @@
         "the nearest evil cult",
         "the nearest army",
         "{target-important}'s family",
-        "[{target-individual},{target-collective},{target-important}] and [{target-individual},{target-collective},{target-important}]"
+        "[{target-individual},{target-collective},{target-important}] and [{target-individual},{target-collective},{target-important}]",
+        "the stars"
     ],
     "things-individual": [
         "the moon",

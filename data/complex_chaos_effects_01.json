@@ -45,8 +45,8 @@
     "target-collective":[
         "every single {living-individual} in a 50ft area",
         "{target-important}'s friends",
-        "{target-individual},[{target-important}]'s friends",
-        "{target-individual},[{target-important}]'s friends",
+        "[{target-individual},{target-important}]'s friends",
+        "[{target-individual},{target-important}]'s party",
         "{ammounts} people nearby",
         "the nearest evil cult",
         "the nearest army",

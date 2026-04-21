@@ -84,7 +84,8 @@
         "candy",
         "{living-individual}'s egg",
         "book",
-        "huge [{living-individual},{target-important},{target-individual},{things-individual},{things-individual}]-shaped balloon"
+        "huge [{living-individual},{target-important},{target-individual},{things-individual},{things-individual}]-shaped balloon",
+        "replica(s) of {things-individual}"
     ],
     "living-individual":[
         "giant eye",

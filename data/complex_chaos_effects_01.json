@@ -1,6 +1,6 @@
 {
     "finalized": [
-        "[{target-important},{target-individual},{target-collective}] appears to vaguely resemble [{target-important},{target-individual},{things-individual}]",
+        "[{target-important},{target-individual},{target-collective}] now appears to vaguely resemble [{target-important},{target-individual},{things-individual}]",
         "a deity is enraged at [{target-important},{target-individual},{target-collective}], and will seek to kill them, unless they provide a handful of {materials}",
         "any and all [{things-collective},{materials}] nearby slowly turns into {materials} over the span of 1d10 rounds",
         "{things-individual} instantly turns into a scale replica of {things-individual}",
@@ -13,7 +13,12 @@
         "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] spontaneously explodes",
         "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] {effects}",
         "when {condition}, {{target-collective}} {personal-effects}",
-        "when {condition}, {finalized}"
+        "when {condition}, {finalized}",
+        "A small {things-collective} tumbles out of each of the caster´s ears",
+        "all reflective surfaces [{target-important},{target-individual},{target-collective}] looks into, reflect the visage of [{materials},{target-important},{target-individual},{living-individual},{places-target-only},{places-target-only}]",
+        "[{target-important},{target-individual},{target-collective}] now {personal-effects} every time {condition}",
+        "roll a second time, and ignore or replace any irrelevant characters. now, anytime {condition}, the result of the roll shall be applied to [{target-important},{target-individual},{target-collective}].",
+        "[{target-important},{target-individual},{target-collective}] is granted a legion of {living-individual}s. "
     ],
     "target-important":[
         "the caster",
@@ -29,7 +34,9 @@
         "[{target-important},{target-individual}]'s almost perfect clone",
         "[{target-important},{target-individual}]'s evil doppleganger",
         "a sealed god's avatar",
-        "a closest scheming villain"
+        "a closest scheming villain",
+        "a nearby {living-individual}",
+        "the moon"
     ],
     "target-collective":[
         "the royal family",
@@ -64,7 +71,10 @@
         "hat",
         "bucket",
         "bag of holding",
-        "candy"
+        "candy",
+        "{living-individual}'s egg",
+        "book",
+        "huge [{living-individual},{target-important},{target-individual},{things-individual},{things-individual}]-shaped balloon"
     ],
     "living-individual":[
         "giant eye",
@@ -98,7 +108,10 @@
         "{materials} golem",
         "flower",
         "nightmare",
-        "{material}-powered {}"
+        "{material}-powered {living-individual}",
+        "{living-individual}-{living-individual} hybrid",
+        "[{materials},{places-target-only},{target-collective}]'s chosen guardian"
+        
     ]
     "ammounts":[
         "1d2",
@@ -170,7 +183,8 @@
         "cheese",
         "soul",
         "silver thread",
-        "blood"
+        "blood",
+        "food"
     ],
     "personal-effects":[
         "{personal-effects} and then {personal-effects}",
@@ -184,7 +198,15 @@
         "encurs the wrath of a deity until {condition}",
         "becomes [[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual}] until {condition}",
         "becomes [{materials},{places-target-only},{target-collective}]'s chosen knight",
-        "becomes [{materials},{places-target-only},{target-collective}]'s chosen {living-individual}"
+        "becomes [{materials},{places-target-only},{target-collective}]'s chosen guardian",
+        "becomes [{materials},{places-target-only},{target-collective}]'s chosen {living-individual}",
+        "becomes detatched from gravity until {condition}",
+        "cries",
+        "becomes keenly aware of their surroundings",
+        "goes into a mindless barbarian rage",
+        "is chained to an anvil",
+        "gets a big craving for coral"
+        
     ],
     "condition":[
         "any kind of roll has been made",
@@ -192,6 +214,7 @@
         "[{target-important},{target-individual}] falls asleep",
         "[{target-important},{target-individual}] draws blood",
         "[{target-important},{target-individual}] casts a spell",
+        "[{target-important},{target-individual}] makes an attack",
         "[{target-important},{target-individual}] dies",
         "seconds before [{target-important},{target-individual}]'s birthday",
         "[{target-important},{target-individual}]'s funeral is held",
@@ -199,6 +222,7 @@
         "1d10 rounds have passed",
         "1d2 rounds have passed",
         "five seconds have passed",
-        "a morsel of [{materials},{living-individual}] has been consumed"
+        "a morsel of [{materials},{living-individual}] has been consumed",
+        "[{target-important},{target-individual}] goes for a swim"
     ]
 }

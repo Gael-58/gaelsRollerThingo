@@ -20,7 +20,7 @@
         "roll a second time, and ignore or replace any irrelevant characters. now, anytime {condition}, the result of the roll shall be applied to [{target-important},{target-individual},{target-collective}].",
         "[{target-important},{target-individual},{target-collective}] is granted a legion of {living-individual}s. ",
         "[{target-important},{target-individual},{target-collective}] is utterly and hopelessly convinced that {finalized}",
-        "the past 10 rounds were an ellaborate illusion made with an expensive machine that just run out of it's main fuel source ([{living-individual},{materials},{places-target-only},{things-individual},{things-collective},{target-collective}])"
+        "the past 10 rounds were an ellaborate illusion made with an expensive machine that just run out of it's main fuel source ([{living-individual},{materials},{places-target-only},{things-individual},{things-collective},{target-collective}])",
         "[{target-important},{target-individual},{target-collective}] gets a cool hat!",
         "[{target-important},{target-individual},{target-collective}] now have a permanent +1 to CHA when wearing sunglasses until {condition}"
     ],

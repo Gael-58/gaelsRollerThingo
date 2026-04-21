@@ -234,7 +234,7 @@
         "gets a big craving for coral"
     ],
     "condition":[
-        "any kind of roll has been made",
+        "the dice rolls",
         "any skill check has been made",
         "[{target-important},{target-individual}] falls asleep",
         "[{target-important},{target-individual}] draws blood",

@@ -9,7 +9,7 @@
         "[{things-individual},{places}] becomes a portal to [{places},{places-target-only}]. roll a d100, if the result is 1, this becomes permanent. otherwise, the result indicates the number of rounds active.",
         "a mirage of [{target-important},{target-individual},{target-collective},{things-individual},{places},{places-target-only}] appears at [{places},{places-target-only}]",
         "[{target-important},{target-individual},{target-collective}] becomes an endless source of [{materials},{things-collective}]",
-        "a cake that looks exactly like the mangled corpse(s) of [{target-important},{target-individual},{target-collective}] appears in ",
+        "a hyperrealistic cake that looks exactly like the mangled corpse(s) of [{target-important},{target-individual},{target-collective}] appears at {places}",
         "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] spontaneously explodes",
         "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] {effects}",
         "when {condition}, {{target-collective}} {personal-effects}",

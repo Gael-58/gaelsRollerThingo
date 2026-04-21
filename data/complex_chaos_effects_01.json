@@ -1,0 +1,106 @@
+{
+    "finalized": [
+        "[{target-important},{target-individual},{target-collective}] appears to vaguely resemble [{target-important},{target-individual},{things-individual}]",
+        "a deity is enraged at [{target-important},{target-individual},{target-collective}], and will seek to kill them, unless they provide a handful of {materials}",
+        "any and all [{things-collective},{materials}] nearby slowly turns into {materials} over the span of 1d10 rounds",
+        "{things-individual} instantly turns into a scale replica of {things-individual}",
+        "{ammounts} {things-collective}s instantly turn into scale replicas of {things-individual}",
+        "[{things-individual}, {target-important}] starts slowly turning into {materials} from the inside out over the span of 1d10 rounds",
+        "[{things-individual}, {places}] becomes a portal to [{places},{places-target-only}]. roll a d100, if the result is 1, this becomes permanent. otherwise, the result indicates the number of rounds active.",
+        "a mirage of [{target-important},{target-individual},{target-collective},{things-individual},{places},{places-target-only}] appears [{places},{places-target-only}]",
+        "[{}{}{}]"
+    ],
+    "target-important":[
+        "the caster",
+        "the target"
+    ],
+    "target-individual": [
+        "the closest person to {target-important}(phisically)",
+        "the closest person to {target-important}(emotionally)",
+        "[{target-important},{target-individual}]'s worst enemy",
+        "the closest member of royalty",
+        "the local ruler"
+    ],
+    "target-collective":[
+        "the royal family",
+        "{ammounts} people nearby",
+        "{target-important}'s family",
+        "{target-important} and {target-important}"
+    ],
+    "things-individual": [
+        "the moon",
+        "the spellbook or weapon of [{target-important},{target-individual},{target-collective}]",
+        "the nearest {things-collective}",
+        "a random {things-collective}",
+        "the philosopher's stone",
+        "[{target-important},{target-individual}]'s face"
+    ],
+    "things-collective":[
+        "shield",
+        "weapon",
+        "spell scroll",
+        "spell book",
+        "casting focus",
+        "potion",
+        "animal",
+        "corpse"
+    ],
+    "ammounts":[
+        "1d2",
+        "1d4",
+        "2d8",
+        "1d10",
+        "1d100",
+        "all"
+    ],
+    "places":[
+        "the sky",
+        "the target point",
+        "the entire area",
+        "the nearest cave",
+        "the ground directly below [{target-important},{target-individual}]",
+        "the space directly above [{target-important},{target-individual}]",
+        "the space directly besides [{target-important},{target-individual}]",
+        "[{target-important},{target-individual}]'s home",
+        "[{target-important},{target-individual}]'s mouth",
+        "the nearest pool of water",
+        "the nearest corpse",
+        "the nearest door",
+        "somewhere nearby"
+    ],
+    "places-target-only":[
+        "the underdark",
+        "the moon",
+        "the surface of the sun",
+        "the nine hells",
+        "the abyss",
+        "[{target-important},{target-individual}]'s preffered afterlife",
+        "the feywilds",
+        "sigil",
+        "the backrooms",
+        "the sea",
+        "the plane of {things-collective}s",
+        "the plane of {materials}"
+    ],
+    "materials": [
+        "water",
+        "fire",
+        "ash",
+        "gold",
+        "manoure",
+        "sand",
+        "stone",
+        "wood",
+        "bone",
+        "metal",
+        "air",
+        "foul smelling slime",
+        "healing potion",
+        "jelly",
+        "dust",
+        "candy",
+        "ash",
+        "ice",
+        "platinum"
+    ]
+}

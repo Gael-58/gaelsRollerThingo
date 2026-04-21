@@ -18,7 +18,11 @@
         "all reflective surfaces [{target-important},{target-individual},{target-collective}] looks into, reflect the visage of [{materials},{target-important},{target-individual},{living-individual},{places-target-only},{places-target-only}]",
         "[{target-important},{target-individual},{target-collective}] now {personal-effects} every time {condition}",
         "roll a second time, and ignore or replace any irrelevant characters. now, anytime {condition}, the result of the roll shall be applied to [{target-important},{target-individual},{target-collective}].",
-        "[{target-important},{target-individual},{target-collective}] is granted a legion of {living-individual}s. "
+        "[{target-important},{target-individual},{target-collective}] is granted a legion of {living-individual}s. ",
+        "[{target-important},{target-individual},{target-collective}] is utterly and hopelessly convinced that {finalized}",
+        "the past 10 rounds were an ellaborate illusion made with an expensive machine that just run out of it's main fuel source ([{living-individual},{materials},{places-target-only},{things-individual},{things-collective},{target-collective}])"
+        "[{target-important},{target-individual},{target-collective}] gets a cool hat!",
+        "[{target-important},{target-individual},{target-collective}] now have a permanent +1 to CHA when wearing sunglasses until {condition}"
     ],
     "target-important":[
         "the caster",
@@ -108,6 +112,9 @@
         "{materials} golem",
         "flower",
         "nightmare",
+        "infant",
+        "orphan",
+        "pig",
         "{material}-powered {living-individual}",
         "{living-individual}-{living-individual} hybrid",
         "[{materials},{places-target-only},{target-collective}]'s chosen guardian"
@@ -206,7 +213,6 @@
         "goes into a mindless barbarian rage",
         "is chained to an anvil",
         "gets a big craving for coral"
-        
     ],
     "condition":[
         "any kind of roll has been made",
@@ -223,6 +229,7 @@
         "1d2 rounds have passed",
         "five seconds have passed",
         "a morsel of [{materials},{living-individual}] has been consumed",
-        "[{target-important},{target-individual}] goes for a swim"
+        "[{target-important},{target-individual}] goes for a swim",
+        "the dark truth of [{places-target-only},{places}], hidden from everyone's knowledge, is found"
     ]
 }

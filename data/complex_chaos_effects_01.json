@@ -15,8 +15,8 @@
         "the target"
     ],
     "target-individual": [
-        "the closest person to {target-important}(phisically)",
-        "the closest person to {target-important}(emotionally)",
+        "the phisically closest person to {target-important}",
+        "the emotionally closest person to {target-important}",
         "[{target-important},{target-individual}]'s worst enemy",
         "the closest member of royalty",
         "the local ruler"

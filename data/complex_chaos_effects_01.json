@@ -230,7 +230,7 @@
         "[{target-important},{target-individual}] casts a spell",
         "[{target-important},{target-individual}] makes an attack",
         "[{target-important},{target-individual}] dies",
-        "seconds before [{target-important},{target-individual}]'s birthday",
+        "the [{target-important},{target-individual}]'s birthday is seconds away",
         "[{target-important},{target-individual}]'s funeral is held",
         "next time someone laughs IRL",
         "1d10 rounds have passed",

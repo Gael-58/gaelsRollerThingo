@@ -12,7 +12,11 @@
         "a hyperrealistic cake that looks exactly like the mangled corpse(s) of [{target-important},{target-individual},{target-collective}] appears at {places}",
         "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] spontaneously explodes",
         "when {condition}, {target-collective} will {personal-effects}",
+        "A mysterious gold sarcophagus appears at {places}",
         "when {condition}, {finalized}",
+        "{target-important}'s age is re-rolled on 10d10 each morning",
+        "{target-important}'s head grows big",
+        "{target-important}'s sneeze causes",
         "{target-important} will {personal-effects}",
         "[{target-important},{target-individual},{target-collective},{living-individual}] and [{target-important},{target-individual},{target-collective},{living-individual}] are now friends, their mutual attitudes will revert back to how it was when they stop being in the same plane.",
         "[{target-important},{target-individual},{target-collective},{living-individual}] and [{target-important},{target-individual},{target-collective},{living-individual}] are now enemies, their mutual attitudes will revert back to how it was when they stop being in the same plane.",
@@ -30,7 +34,12 @@
         "{ammounts} of {target-important}'s hitpoints get transferred to {target-important}",
         "1d10 of {target-important}'s MAXIMUM hitpoints get transferred to {target-important} until {condition}",
         "{ammounts} of [{target-important},{target-individual},{target-collective}]'s hitpoints get transferred to [{target-important},{target-individual},{target-collective}]",
-        "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] is 5% likely to {effects} each time {condition}"
+        "[{target-important},{target-individual},{target-collective},{things-individual},{things-collective},{living-individual},{places}] is 5% likely to {effects} each time {condition}",
+        "A new, non-magical, and deadly virus issues from {places} after 1d10 days",
+        "random chaos effect 8135: A small, mysterious island appears in the nearest river",
+        "A {materials} tower 100 yards tall emerges from {places}",
+        "A stolen dragon egg appears at {places}"
+        
     ],
     "target-important":[
         "the caster",
@@ -134,7 +143,8 @@
         "pig",
         "{material}-powered {living-individual}",
         "{living-individual}-{living-individual} hybrid",
-        "[{materials},{places-target-only},{target-collective}]'s champion"
+        "[{materials},{places-target-only},{target-collective}]'s champion",
+        "sphere of annihilation"
         
     ],
     "ammounts":[
@@ -162,7 +172,8 @@
         "the nearest corpse",
         "the nearest door",
         "somewhere nearby",
-        "the nearest source of {materials}"
+        "the nearest source of {materials}",
+        "the center of the nearest town"
     ],
     "places-target-only":[
         "space",
@@ -211,7 +222,11 @@
         "soul",
         "silver thread",
         "blood",
-        "food"
+        "food",
+        "steel",
+        "honeycomb",
+        "glass",
+        "mahogany"
     ],
     "personal-effects":[
         "{personal-effects} and then {personal-effects}",

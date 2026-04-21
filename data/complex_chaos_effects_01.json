@@ -5,8 +5,8 @@
         "any and all [{things-collective},{materials}] nearby slowly turns into {materials} over the span of 1d10 rounds",
         "{things-individual} instantly turns into a scale replica of {things-individual}",
         "{ammounts} {things-collective}s instantly turn into scale replicas of {things-individual}",
-        "[{things-individual}, {target-important}] starts slowly turning into {materials} from the inside out over the span of 1d10 rounds",
-        "[{things-individual}, {places}] becomes a portal to [{places},{places-target-only}]. roll a d100, if the result is 1, this becomes permanent. otherwise, the result indicates the number of rounds active.",
+        "[{things-individual},{target-important}] starts slowly turning into {materials} from the inside out over the span of 1d10 rounds",
+        "[{things-individual},{places}] becomes a portal to [{places},{places-target-only}]. roll a d100, if the result is 1, this becomes permanent. otherwise, the result indicates the number of rounds active.",
         "a mirage of [{target-important},{target-individual},{target-collective},{things-individual},{places},{places-target-only}] appears [{places},{places-target-only}]",
         "[{}{}{}]"
     ],

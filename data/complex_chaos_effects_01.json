@@ -43,8 +43,13 @@
         "the moon"
     ],
     "target-collective":[
-        "the royal family",
+        "every single {living-individual} in a 50ft area",
+        "{target-important}'s friends",
+        "{target-individual},[{target-important}]'s friends",
+        "{target-individual},[{target-important}]'s friends",
         "{ammounts} people nearby",
+        "the nearest evil cult",
+        "the nearest army",
         "{target-important}'s family",
         "[{target-individual},{target-collective},{target-important}] and [{target-individual},{target-collective},{target-important}]"
     ],

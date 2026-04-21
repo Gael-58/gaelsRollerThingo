@@ -63,7 +63,8 @@
         "[{target-important},{target-individual},{living-individual}]'s skull",
         "[{target-important},{target-individual},{living-individual}]'s corpse",
         "[{target-important},{target-individual},{living-individual}]'s finger",
-        "[{target-important},{target-individual},{living-individual}]'s eye"
+        "[{target-important},{target-individual},{living-individual}]'s eye",
+        "an expensive machine who's main fuel source is [{living-individual},{materials},{places-target-only},{things-individual},{things-collective},{target-collective}]"
     ],
     "things-collective":[
         "shield",

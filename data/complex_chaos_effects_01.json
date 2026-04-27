@@ -38,8 +38,22 @@
         "A new, non-magical, and deadly virus issues from {places} after 1d10 days",
         "random chaos effect 8135: A small, mysterious island appears in the nearest river",
         "A {materials} tower 100 yards tall emerges from {places}",
-        "A stolen dragon egg appears at {places}"
-        
+        "A stolen dragon egg appears at {places}",
+        "1d10 of {target-important}'s fingers turn into {materials}, the affected individual may still use these fingers as normal.",
+        "{target-important}'s magic does not affect females for 1d4 days",
+        "{target-important}'s magic does not affect males for 1d4 days",
+        "1d2 of {target-important}'s arms acquires malevolent intelligence",
+        "{target-important} hears malevolent voices all around them",
+        "[{target-important},{target-individual}] hears malevolent voices all around them",
+        "Nearest forest acquires malevolent sentience and intelligence",
+        "[{places},{things-individual}] acquires malevolent sentience and intelligence",
+        "No females within 50 yards can be injured by males for 6d8 hours",
+        "No males within 50 yards can be injured by females for 6d8 hours",
+        "No males within one mile can be injured for 1d4 rounds",
+        "No females within one mile can be injured for 1d4 rounds",
+        "{target-important} can Summon but not control a powerful, malevolent entity",
+        "{target-important} can Summon but not control a powerful entity",
+        "{target-important} can Summon but not control a powerful, benevolent entity"
     ],
     "target-important":[
         "the caster",
@@ -125,6 +139,9 @@
         "{materials} elemental",
         "fiend",
         "bag man",
+        "big man",
+        "female",
+        "male",
         "celestial",
         "grandma",
         "goblin",
@@ -141,10 +158,14 @@
         "infant",
         "orphan",
         "pig",
+        "dragon",
         "{material}-powered {living-individual}",
         "{living-individual}-{living-individual} hybrid",
         "[{materials},{places-target-only},{target-collective}]'s champion",
-        "sphere of annihilation"
+        "sphere of annihilation",
+        "human",
+        "elf",
+        "dwarf"
         
     ],
     "ammounts":[
@@ -172,9 +193,11 @@
         "the nearest pool of water",
         "the nearest corpse",
         "the nearest door",
-        "somewhere nearby",
+        "some place nearby",
         "the nearest source of {materials}",
-        "the center of the nearest town"
+        "the center of the nearest town",
+        "the nearest forest",
+        "the nearest swamp"
     ],
     "places-target-only":[
         "space",
@@ -227,7 +250,8 @@
         "steel",
         "honeycomb",
         "glass",
-        "mahogany"
+        "mahogany",
+        "living {materials}"
     ],
     "personal-effects":[
         "{personal-effects} and then {personal-effects}",
@@ -244,7 +268,7 @@
         "become [{materials},{places-target-only},{target-collective}]'s chosen guardian",
         "become [{materials},{places-target-only},{target-collective}]'s chosen {living-individual}",
         "become detatched from gravity until {condition}",
-        "cry",
+        "begin to cry",
         "become keenly aware of their surroundings",
         "goe into a mindless barbarian rage",
         "get chained to an anvil",
@@ -258,7 +282,11 @@
         "become targetted by the nearest boulder, which will roll endlessly towards them until they're naught but paste",
         "become immune to polymorph magic",
         "resist damage stemming from {materials}",
-        "be instantly consumed by vermin if they die before {condition}"
+        "be instantly consumed by vermin if they die before {condition}",
+        "become twice as durable",
+        "become as brittle as glass",
+        "become strong as steel",
+        "turn into [{materials},{things-individual},{living-individual},{things-collective}]"
     ],
     "condition":[
         "the dice rolls",

@@ -17,7 +17,7 @@
         "when {condition}, {finalized}",
         "{/personal/personal-important}'s age is re-rolled on 10d10 each morning",
         "{/personal/personal-important}'s head grows big",
-        "{/personal/personal-important}'s sneeze causes",
+        "{/personal/personal-important}'s sneeze causes {/effects/personal-effects}",
         "{/personal/personal-important} will {/effects/personal-effects}",
         "[{/personal/personal-important},{/personal/personal-individual},{/personal/personal-collective},{/controllers/modifier-nearest-nearby-living-individual}] and [{/personal/personal-important},{/personal/personal-individual},{/personal/personal-collective},{/controllers/modifier-nearest-nearby-living-individual}] are now friends, their mutual attitudes will revert back to how it was when they stop being in the same plane.",
         "[{/personal/personal-important},{/personal/personal-individual},{/personal/personal-collective},{/controllers/modifier-nearest-nearby-living-individual}] and [{/personal/personal-important},{/personal/personal-individual},{/personal/personal-collective},{/controllers/modifier-nearest-nearby-living-individual}] are now enemies, their mutual attitudes will revert back to how it was when they stop being in the same plane.",

@@ -131,7 +131,7 @@
             "the plane of {material}",
             "the belly of the beast",
             "the discarded place"
-        ],
+        ]
     },
     "material":{
         "material-elemental":{
@@ -194,7 +194,7 @@
             "{effects/potion-effects} potion",
             "gore",
             "spells"
-        ]
+        ],
         "material-other":[
             "manoure",
             "mahogany",

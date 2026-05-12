@@ -269,7 +269,7 @@
         ]
     },
     "condition":[
-        "the dice rolls",
+        "a dice rolls",
         "any skill check has been made",
         "they fall asleep",
         "they draw blood",
@@ -291,8 +291,8 @@
         "they bleed",
         "they're struck by magic",
         "they wet their hair",
-        "a day",
-        "a week"
+        "a day passes",
+        "a week passes"
     ],
 
     "things":{

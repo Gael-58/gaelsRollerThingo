@@ -55,7 +55,8 @@
         "{/personal/personal-important} can Summon but not control a powerful, malevolent entity",
         "{/personal/personal-important} can Summon but not control a powerful entity",
         "{/personal/personal-important} can Summon but not control a powerful, benevolent entity",
-        "0003 1d100 sparkling motes dance about the {/personal/personal-important}'s head until dawn"
+        "0003 1d100 sparkling motes dance about the {/personal/personal-important}'s head until dawn",
+        "the nearby {living-individual}s are unionizing"
     ],
     "personal":{
         "personal-important":[
@@ -179,6 +180,9 @@
             "reverse-[{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
             "living-[{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
             "liquid [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
+            "elven [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
+            "dwarven [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
+            "[{/material/material-elemental},{/material/material-other},{/material/material-esoterica}] made by {living-individual}s",
             "crystaline [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
             "gaseous [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]",
             "contaminated [{/material/material-elemental},{/material/material-other},{/material/material-esoterica}]"
@@ -265,7 +269,7 @@
             "haste",
             "confusion",
             "illness",
-            "chaotic burst"
+            "chaos burst"
         ]
     },
 
@@ -344,10 +348,12 @@
         "orphan",
         "pig",
         "dragon",
-        "sphere of annihilation",
+        "sentient sphere of annihilation",
         "human",
         "elf",
+        "elve",
         "dwarf",
+        "hivemind member",
         "undead {living-individual}",
         "reverse-\"[{/controllers/controller-personal-individual},{/personal/personal-important},{/personal/personal-individual},{living-individual}]\"",
         "{material}-powered {living-individual}",

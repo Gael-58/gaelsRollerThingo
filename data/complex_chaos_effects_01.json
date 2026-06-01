@@ -173,7 +173,8 @@
                 "poison",
                 "plants",
                 "noxious gas",
-                "plasma"
+                "plasma",
+                "aether"
             ]
         },
         "material-special":[
@@ -197,7 +198,9 @@
             "healing potion",
             "{/effects/potion-effects} potion",
             "gore",
-            "spells"
+            "spells",
+            "aura",
+            "creativity"
         ],
         "material-other":[
             "manoure",
@@ -211,7 +214,8 @@
             "coral",
             "steel",
             "lead",
-            "tea"
+            "tea",
+            "dye"
         ]
     },
     "effects":{

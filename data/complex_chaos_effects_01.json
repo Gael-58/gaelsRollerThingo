@@ -357,6 +357,7 @@
         "elf",
         "elve",
         "dwarf",
+        "bug",
         "hivemind member",
         "undead {living-individual}",
         "reverse-\"[{/controllers/controller-personal-individual},{/personal/personal-important},{/personal/personal-individual},{living-individual}]\"",
